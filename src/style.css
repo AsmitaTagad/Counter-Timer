@@ -1,0 +1,44 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  border: 2px solid;
+  height: 19rem;
+  width: 645px;
+  margin-top: 7.5rem;
+  background-color: #e9874e;
+}
+
+.subContainer {
+  margin-left: 10rem;
+}
+
+.subContainer > h1 {
+  margin-left: 9rem;
+  font-size: 33px;
+}
+
+.btn1 {
+  padding: 1rem;
+  width: 8rem;
+  margin: 1rem;
+  background-color: #55ddbb;
+  border-radius: 4px;
+  font-weight: 600;
+}
+
+.btn2 {
+  padding: 1rem;
+  width: 8rem;
+  margin: 1rem;
+  background-color: #55ddbb;
+  border-radius: 4px;
+  font-weight: 600;
+}
+
+.timer > h1 {
+  margin-left: 7rem;
+}
